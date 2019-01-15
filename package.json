@@ -1,0 +1,25 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0",
+    "prettier": "^1.15.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build src/index.html"
+  },
+  "author": "Benjamin Brecher",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenBrecherCGS2821/assignment2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BenBrecherCGS2821/assignment2/issues"
+  },
+  "homepage": "https://github.com/BenBrecherCGS2821/assignment2#readme",
+  "description": ""
+}
